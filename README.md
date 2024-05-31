@@ -1,7 +1,8 @@
 # React Redux Counter
 
 Build with **Udemy Course React (the Complete Guide)** 
-Section 19: Diving into Redux (An Alternative To The Context API)
+
+**Section 19:** Diving into Redux (An Alternative To The Context API)
 
 Instructor: **Maximilian Schwarzmüller**
 
